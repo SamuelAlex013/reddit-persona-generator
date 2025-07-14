@@ -20,7 +20,7 @@ An intelligent system that analyzes Reddit user profiles to generate detailed, p
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/SamuelAlex013/reddit-persona-generator.git
 cd reddit-persona-generator
 ```
 
