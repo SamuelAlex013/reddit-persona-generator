@@ -4,8 +4,9 @@ RedditScraper class for Reddit Persona Generator.
 """
 
 import re
-import praw
 from typing import List
+
+import praw
 
 from models import RedditPost
 
@@ -34,7 +35,7 @@ class RedditScraper:
                 f"Please use a user URL like: "
                 f"https://www.reddit.com/user/username/"
             )
-        
+
         patterns = [
             r'reddit\.com/user/([^/]+)',
             r'reddit\.com/u/([^/]+)',

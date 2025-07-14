@@ -3,11 +3,11 @@
 PersonaGenerator class for Reddit Persona Generator.
 """
 
-from typing import Dict
 import json
+from typing import Dict
 
-from reddit_scraper import RedditScraper
 from persona_analyzer import PersonaAnalyzer
+from reddit_scraper import RedditScraper
 
 
 class PersonaGenerator:
@@ -19,15 +19,23 @@ class PersonaGenerator:
         self.analyzer = PersonaAnalyzer(google_api_key)
 
     def save_persona_as_txt(self, persona: dict, output_file: str):
-        """Save persona as a professional, human-readable TXT report."""
+        """Save persona as a human-readable TXT report."""
+
         def section(title, content):
-            return f"{title}\n{'='*len(title)}\n{content}\n"
+            return f"{title}\n{'=' * len(title)}\n{content}\n"
+
         def bullets(items):
             return '\n'.join([f"- {item}" for item in items]) if items else "(none)"
+
         report = []
         # Demographics
         demo = persona.get('demographics', {})
-        demo_str = f"Age: {demo.get('age', 'N/A')}\nGender: {demo.get('gender', 'N/A')}\nLocation: {demo.get('location', 'N/A')}\nOccupation: {demo.get('occupation', 'N/A')}"
+        demo_str = (
+            f"Age: {demo.get('age', 'N/A')}\n"
+            f"Gender: {demo.get('gender', 'N/A')}\n"
+            f"Location: {demo.get('location', 'N/A')}\n"
+            f"Occupation: {demo.get('occupation', 'N/A')}"
+        )
         report.append(section("DEMOGRAPHICS", demo_str))
         # Traits
         report.append(section("TRAITS", bullets(persona.get('traits'))))
@@ -47,7 +55,9 @@ class PersonaGenerator:
         report.append(section("ANALYSIS SUMMARY", persona.get('summary', '')))
         # Citations
         citations = persona.get('citations', {})
-        citations_str = '\n'.join([f"{k.title()}: {', '.join(v) if v else '(none)'}" for k, v in citations.items()])
+        citations_str = '\n'.join(
+            [f"{k.title()}: {', '.join(v) if v else '(none)'}" for k, v in citations.items()]
+        )
         report.append(section("CITATIONS", citations_str))
         # Confidence & Data Quality
         report.append(section("CONFIDENCE LEVEL", persona.get('confidence', '')))
