@@ -1,0 +1,65 @@
+DEMOGRAPHICS
+============
+Age: None
+Gender: None
+Location: None
+Occupation: Co-founder and CTO of Spext
+
+TRAITS
+======
+- Interested in AI and LLMs
+- Interested in RAG applications
+- Interested in video and audio data retrieval
+- Developer
+- Builder
+
+MOTIVATIONS
+===========
+- To build a platform for dynamic, accessible, and editable audio & video content
+- To seek feedback and collaboration from builders in conversational intelligence, autonomous agents, and related fields
+
+PERSONALITY
+===========
+(none)
+
+BEHAVIORS & HABITS
+==================
+- Posts about AI agents, video processing, and RAG applications on various subreddits (r/LangChain, r/LlamaIndex, r/LocalLLaMA, r/OpenAI, r/mcp, r/ChatGPT, r/ElevenLabs, r/StableDiffusion, r/VideoEditing, r/Anthropic, r/LanguageTechnology)
+- Shares links to projects and resources (e.g., VideoDB, Agent Toolkit, StreamRAG, PromptClip)
+- Seeks feedback and collaboration
+- Discusses challenges and strategies for RAG applications, specifically regarding context management
+- Introduces himself as co-founder and CTO of Spext
+
+FRUSTRATIONS
+============
+- The vast majority of knowledge embedded within audio and video formats remains locked away, inaccessible, and somewhat elusive
+
+GOALS & NEEDS
+=============
+- To transform the way people interact with audio & video, shifting from outdated, static files to dynamic, accessible, and editable content
+
+KEY QUOTE
+=========
+"I am Ashutosh, co-founder and CTO of [Spext](https://www.spext.co/). Spext transforms the way we interact with audio & video, shifting from outdated, static files to **dynamic, accessible, and editable content.**"
+
+ANALYSIS SUMMARY
+================
+Ashutosh is the co-founder and CTO of Spext, a company focused on creating dynamic and accessible audio and video content. He actively engages in discussions and shares resources related to AI, LLMs, RAG applications, and video processing on various subreddits. He is interested in building solutions for video and audio data retrieval and seeks collaboration within the AI community.
+
+CITATIONS
+=========
+Demographics: 17jtvn2, 17jtu5v
+Traits: 1lwkojv, 1lhlfx4, 17jtvn2, 17jtu5v, 1jtksc6
+Motivations: 1lwkojv, 17jtvn2, 17jtu5v
+Personality: (none)
+Behaviors: 1lwlhzu, 1lwl46x, 1lwkojv, 1lwkeob, 1lwk8mw, 1lhlij6, 1lhlfx4, 1lhl71b, 1lhl48h, 1k1di99, 1k1deqg, 1jzmzjs, 1jzmy73, 1jvrx0a, 1jv9efl, 1jv4hu6, 1jtksc6, 1jtiyq5, 1jgbyv8, 1jfkkdn, 1jd87wv, 1j50wdj, 1iy1fbe, 1ip5ap4, 1ioikl0, 1ioi666, 1ioi4lm, 1hax4x4, 1h6n3pj, 1h6myj8, 1h6mtrp, 1f8xkn6, 1e70se7, 1bzncf2, 1b0ga3u, 1b0g7ia, 1ay22d8, 1ay1vp0, 1avcb75, 1augikz, 1augbgv, 1aug9vd, 1amgtk3, 18izvbh, 17y5qx0, 17kfqdv, 17jtvn2, 17jtu5v, 17jmpn8, 17hjusk
+Frustrations: 17hjusk
+Goals: 17jtvn2, 17jtu5v
+
+CONFIDENCE LEVEL
+================
+High
+
+DATA QUALITY
+============
+High

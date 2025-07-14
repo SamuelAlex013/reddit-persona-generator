@@ -75,6 +75,10 @@ class PersonaGenerator:
                 return {"error": "LLM output was empty or not JSON.", "raw_output_file": debug_file}
             try:
                 persona = json.loads(report_json_str)
+                # Check if content was blocked
+                if persona.get('blocked', False):
+                    print(f"Analysis blocked: {persona.get('error', 'Unknown reason')}")
+                    return persona
             except json.JSONDecodeError as e:
                 print(f"Error parsing LLM output as JSON: {e}")
                 debug_file = f"persona/{username}_persona_raw.txt"
