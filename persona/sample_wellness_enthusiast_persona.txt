@@ -1,0 +1,82 @@
+DEMOGRAPHICS
+============
+Age: 22-26
+Gender: Female
+Location: Urban area (likely North America)
+Occupation: Graduate student or recent graduate
+
+TRAITS
+======
+- Health and wellness focused individual
+- Environmentally conscious consumer
+- Budget-conscious but values quality
+- Research-oriented decision maker
+- Community-minded and socially aware
+- Aesthetically driven with attention to visual appeal
+
+MOTIVATIONS
+===========
+- To maintain a healthy lifestyle on a budget
+- To make environmentally responsible choices
+- To find reliable product recommendations
+- To build a sustainable beauty and wellness routine
+- To connect with like-minded individuals
+
+PERSONALITY
+===========
+- Methodical and research-driven
+- Values authenticity and transparency
+- Socially conscious and empathetic
+- Practical yet aspirational
+- Detail-oriented in product evaluation
+
+BEHAVIORS & HABITS
+==================
+- Actively participates in beauty and skincare subreddits
+- Seeks and provides product reviews and recommendations
+- Researches ingredients and product formulations
+- Compares prices across multiple retailers
+- Shares before/after photos and progress updates
+- Engages in discussions about sustainable practices
+
+FRUSTRATIONS
+============
+- Misleading marketing claims in beauty industry
+- High prices for quality skincare products
+- Difficulty finding products for specific skin concerns
+- Overwhelming amount of conflicting advice online
+- Products that don't live up to their promises
+
+GOALS & NEEDS
+=============
+- To develop an effective skincare routine within budget
+- To find trustworthy brands and products
+- To achieve specific beauty/wellness goals
+- To make informed purchasing decisions
+- To build confidence through self-care practices
+
+KEY QUOTE
+=========
+"I'd rather invest in a few quality products that actually work than waste money on trendy items that don't deliver results."
+
+ANALYSIS SUMMARY
+================
+This user represents a thoughtful consumer who approaches beauty and wellness with a research-first mindset. They value community input and scientific backing for their purchasing decisions. Their posts reflect someone who is building expertise in personal care while remaining mindful of budget constraints and environmental impact.
+
+CITATIONS
+=========
+Demographics: [post_abc, comment_def, post_ghi]
+Traits: [comment_jkl, post_mno, comment_pqr]
+Motivations: [post_stu, comment_vwx, post_yz1]
+Personality: [comment_234, post_567, comment_890]
+Behaviors: [post_abc, comment_def, post_ghi]
+Frustrations: [comment_jkl, post_mno, comment_pqr]
+Goals: [post_stu, comment_vwx, post_yz1]
+
+CONFIDENCE LEVEL
+================
+High - Based on detailed product discussions and consistent engagement patterns
+
+DATA QUALITY
+=============
+High - Comprehensive posts with specific product mentions and detailed experiences
